@@ -2,7 +2,9 @@
 The Student Thermal Energetic Activity Module (STEAM) is a collaboration with the Southwest Research Institute (SwRI) to search for X-ray signatures of coronal heating mechanisms. STEAM is a supplementary experiment to [SwRI’s Polarimeter to UNify the Corona and Heliosphere (PUNCH) mission](https://punch.space.swri.edu/).
 STEAM's CAD can be seen below, with dimensions.
 
-![STEAM's CAD can be seen below, with dimensions](https://www.colorado.edu/center/spacegrant/sites/default/files/styles/small/public/page/STEAM_with_dimensions.jpg?itok=AkpkTmnI)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://www.colorado.edu/center/spacegrant/sites/default/files/styles/small/public/page/STEAM_with_dimensions.jpg?itok=AkpkTmnI)" alt="STEAM's CAD can be seen below, with dimensions" />
+</p>
 
 STEAM will house two Amptek off-the-shelf X-ray spectrometers and all associated electronics. The exterior structure will be composed of Aluminum 7075 to allow for low mass structural integrity that can withstand the forces of launch, while also shielding against ionizing radiation in orbit. The spectrometer configuration will allow for the separation of the pre-amplifiers and detector heads from the main electronics to reduce volume. To minimize signal from the cosmic background radiation, exterior aluminum baffles will constrain the field of view of the detectors. Experimental calibration of both spectrometers will be done before and after integration, through calibrated X-ray emitting radioactive isotope source measurements as well as instrument response matrix implementation.
 
